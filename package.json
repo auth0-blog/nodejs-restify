@@ -1,0 +1,21 @@
+{
+  "name": "birthdates-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^5.0.1",
+    "http-status": "^1.1.0",
+    "joi": "^13.3.0",
+    "mongoose": "^5.1.0",
+    "restify": "^7.1.1",
+    "restify-errors": "^6.0.0",
+    "restify-url-semver": "^1.1.1",
+    "winston": "^3.0.0-rc5"
+  }
+}
